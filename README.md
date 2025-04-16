@@ -1,6 +1,6 @@
 // Java project: TaskMaster
 
-// 项目结构: taskmaster-java
+// Project Structure: taskmaster-java
 // - backend (Spring Boot)
 // - frontend (React)
 // - docker
