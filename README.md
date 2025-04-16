@@ -1,4 +1,4 @@
-// Java 项目: TaskMaster
+// Java project: TaskMaster
 
 // 项目结构: taskmaster-java
 // - backend (Spring Boot)
@@ -90,9 +90,9 @@ npm install && npm start
 
 ---
 
-// Python 项目: InsightX
+// Python project: InsightX
 
-# 项目结构: insightx-python
+# Project Structure: insightx-python
 # - app (FastAPI)
 # - templates (Jinja2)
 # - static
